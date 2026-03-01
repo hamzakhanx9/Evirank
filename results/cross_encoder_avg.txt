@@ -1,0 +1,66 @@
+Number of Claims Processed: 250
+
+Average Precision@5: 0.2360
+Average Recall@5: 0.2360
+Average AP: 0.1813
+
+Highest Precision@5: 1.0000
+Lowest Precision@5: 0.0000
+
+Highest Recall@5: 1.0000
+Lowest Recall@5: 0.0000
+
+Highest AP: 1.0000
+Lowest AP: 0.0000
+
+--- Runtime Statistics (in seconds) ---
+Average Runtime: 9.2816s
+Minimum Runtime: 6.3387s
+Maximum Runtime: 17.4483s
+Standard Deviation: 1.9098s
+
+--- Value Counts ---
+Precision@5 Distribution:
+  0.00: 89 claims
+  0.20: 77 claims
+  0.40: 50 claims
+  0.60: 21 claims
+  0.80: 10 claims
+  1.00: 3 claims
+
+Recall@5 Distribution:
+  0.00: 89 claims
+  0.20: 77 claims
+  0.40: 50 claims
+  0.60: 21 claims
+  0.80: 10 claims
+  1.00: 3 claims
+
+AP Distribution:
+  0.00: 89 claims
+  0.04: 7 claims
+  0.05: 8 claims
+  0.07: 13 claims
+  0.10: 13 claims
+  0.13: 6 claims
+  0.15: 2 claims
+  0.17: 1 claims
+  0.18: 4 claims
+  0.20: 38 claims
+  0.23: 4 claims
+  0.28: 6 claims
+  0.29: 1 claims
+  0.30: 7 claims
+  0.32: 1 claims
+  0.33: 7 claims
+  0.38: 1 claims
+  0.40: 11 claims
+  0.48: 4 claims
+  0.52: 3 claims
+  0.55: 2 claims
+  0.60: 9 claims
+  0.64: 1 claims
+  0.71: 3 claims
+  0.76: 2 claims
+  0.80: 4 claims
+  1.00: 3 claims
